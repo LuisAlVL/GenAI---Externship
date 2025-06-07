@@ -1,0 +1,4 @@
+
+2025-06-07 15:26:15,318 - ERROR - ValueError occurred: Invalid input
+2025-06-07 15:27:13,831 - ERROR - ValueError occurred: Invalid input
+2025-06-07 15:27:32,863 - ERROR - ZeroDivisionError: Attempted division by zero.
